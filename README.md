@@ -1,2 +1,7 @@
 # pirMotionCam
-take video on motion using a Raspberry Pi and an PIR motion sensor
+
+Take a video on motion using 
+- a Raspberry Pi 
+- a PIR motion sensor
+- piCamera (python)
+- pushover API
